@@ -1,0 +1,34 @@
+{
+  "providerName": "Deeyar TV",
+  "lastUpdated": "2025-03-15T09:10:35Z",
+  "language": "Dari",
+  "series": [],
+  "movies": [],
+  "liveStreams": [
+    {
+      "id": "livestream-001",
+      "title": "Deeyar TV Live Stream",
+      "content": {
+        "dateAdded": "2025-03-15T09:10:35Z",
+        "videos": [
+          {
+            "url": "https://59d39900ebfb8.streamlock.net/viet-sports/viet-sports/playlist.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "thumbnails": [
+          {
+            "url": "https://drive.google.com/uc?export=view&id=1DP8xL4gC1K2AUHkU1w-q-W8Nq6OBDyfK",
+            "width": 1920,
+            "height": 1080
+          }
+        ]
+      },
+      "thumbnail": "https://drive.google.com/uc?export=view&id=1DP8xL4gC1K2AUHkU1w-q-W8Nq6OBDyfK",
+      "shortDescription": "Watch Deeyar TV live, bringing you news, entertainment, and cultural programs.",
+      "longDescription": "Deeyar TV is your destination for news, politics, social, cultural, educational, entertainment, music, and cooking competitions. Stream our live broadcast on multiple platforms, including Roku, Samsung Smart TV, LG Smart TV, iOS, and Android."
+    }
+  ],
+  "external_feed_url": "https://raw.githubusercontent.com/Deeyar-tv/deeyar-tv-data/refs/heads/main/deeyar_tv.json"
+}
